@@ -14,4 +14,5 @@ Tp SPD
         Fecha de entrega 04/05/2022
 
 LINK DEL TP 1: https://www.tinkercad.com/things/kFjW7YZwa64
+
 LINK DEL TP 2: https://www.tinkercad.com/things/hdYHDE17WUT-tp-02-reloj-con-servomotores-y-display-lcd/editel?sharecode=64-2lmi-g5xVrfm7w0bzBl45Zi0-M7DJsdB2684nRSU
